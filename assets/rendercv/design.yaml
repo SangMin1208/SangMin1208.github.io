@@ -5,3 +5,5 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+    top_margin: 0.5in
+    bottom_margin: 0.5in
