@@ -42,7 +42,7 @@ cv:
         location: Ulsan, Korea
         url: https://vision.unist.ac.kr/
         start_date: 2026-01
-        end_date: 2026-07
+        end_date: 2026-09
         summary: Advised by Prof. Seungryul Baek
         highlights:
           - Focused on 3D vision, human mesh recovery (HMR), and Vision-Language-Action (VLA)
