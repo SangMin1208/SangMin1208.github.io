@@ -18,7 +18,6 @@ cv:
         start_date: 2027-03
         end_date: 2029-02
         highlights:
-          - "Incoming M.S. student (starting March 2027)"
           - "Research interests: fine-tuning Large Language Models (LLMs) specialized for the medical domain"
 
       - institution: Jeonbuk National University

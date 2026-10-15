@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming M.S. Student at <a href='https://gsds.kaist.ac.kr/'>KAIST Graduate School of Data Science (GSDS)</a>, <a href='https://kirc.kaist.ac.kr/'>KIRC</a>
+subtitle: M.S. Student at <a href='https://gsds.kaist.ac.kr/'>KAIST Graduate School of Data Science (GSDS)</a>, <a href='https://kirc.kaist.ac.kr/'>KIRC</a>
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in Statistics at [Jeonbuk National University](https://www.jbnu.ac.kr/). I will be joining the [KIRC](https://kirc.kaist.ac.kr/) lab at the [Graduate School of Data Science (GSDS)](https://gsds.kaist.ac.kr/), KAIST, as an M.S. student in March 2027.
+I am an M.S. student in the [KIRC](https://kirc.kaist.ac.kr/) lab at the [Graduate School of Data Science (GSDS)](https://gsds.kaist.ac.kr/), KAIST. I received my B.S. in Statistics from [Jeonbuk National University](https://www.jbnu.ac.kr/).
 
 My research interests are **_Large Language Models (LLMs) for healthcare_**, especially **_fine-tuning LLMs specialized for the medical domain_**. I am passionate about building reliable and efficient language models that can support **_clinical decision-making_** and **_medical knowledge understanding_** in real-world settings.
 
