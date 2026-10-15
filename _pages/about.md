@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student at <a href='https://gsds.kaist.ac.kr/'>KAIST Graduate School of Data Science (GSDS)</a>, <a href='https://kirc.kaist.ac.kr/'>KIRC</a>
 
 profile:
   align: right
@@ -23,10 +22,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an M.S. student in the [KIRC](https://kirc.kaist.ac.kr/) lab at the [Graduate School of Data Science (GSDS)](https://gsds.kaist.ac.kr/), KAIST. I received my B.S. in Statistics from [Jeonbuk National University](https://www.jbnu.ac.kr/).
+M.S. Student in [KIRC](https://kirc.kaist.ac.kr/) Lab, advised by Prof. Mun Yong Yi. [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at KAIST, Daejeon, Republic of Korea.
 
-My research interests are **_Large Language Models (LLMs) for healthcare_**, especially **_fine-tuning LLMs specialized for the medical domain_**. I am passionate about building reliable and efficient language models that can support **_clinical decision-making_** and **_medical knowledge understanding_** in real-world settings.
+My research interests are **_Large Language Models (LLMs) for healthcare_**, especially in **_fine-tuning LLMs specialized for the medical domain_**. My goal is to build reliable and efficient language models that support real-world medical applications, from **_clinical decision-making_** to **_medical knowledge understanding_**.
 
-Previously, I was an undergraduate researcher at the [Vision and Learning Lab (UVLL)](https://vision.unist.ac.kr/), UNIST, advised by Prof. Seungryul Baek, where I worked on 3D computer vision and human mesh recovery. I also worked at the Multiscale Lab, JBNU, advised by Prof. Guebin Choi.
+Previously, I was an undergraduate researcher at the [Vision and Learning Lab (UVLL)](https://vision.unist.ac.kr/), UNIST, advised by Prof. Seungryul Baek, where I worked on 3D computer vision and human mesh recovery. I received my B.S. in Statistics from [Jeonbuk National University](https://www.jbnu.ac.kr/), where I was an undergraduate researcher at the Multiscale Lab, advised by Prof. Guebin Choi.
 
 I am always open to discussions and collaborations. Please feel free to reach out to me via email.

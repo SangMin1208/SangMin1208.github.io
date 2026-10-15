@@ -13,7 +13,7 @@ cv:
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://gsds.kaist.ac.kr/
-        area: Graduate School of Data Science (GSDS), KIRC Lab
+        area: "Graduate School of Data Science (GSDS), KIRC Lab, advised by Prof. Mun Yong Yi"
         degree: M.S.
         start_date: 2027-03
         end_date: 2029-02
@@ -31,6 +31,12 @@ cv:
           - "Total GPA: 4.40 / 4.5, Major GPA: 4.47 / 4.5"
 
     Experience:
+      - company: Physical AI Demonstration Division, CAMTIC Advanced Mechatronics Technology Institute
+        position: Research Intern, Research Planning Team
+        location: Jeonju, Korea
+        start_date: 2026-10
+        end_date: 2026-12
+
       - company: Vision and Learning Lab (UVLL), UNIST
         position: Undergraduate Researcher
         location: Ulsan, Korea

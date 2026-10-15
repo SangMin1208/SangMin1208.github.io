@@ -8,13 +8,13 @@ nav_order: 3
 ---
 
 <!-- To add a post: put a new line under the right semester as "- [Title](link)".
-     A line without a link shows as "coming soon". -->
+     For an upcoming post without a link, add <span class="text-muted">(coming soon)</span>. -->
 
 ### 2026-2 (Now)
 
-- Theory: Math & Concepts for LLMs <span class="text-muted">(coming soon)</span>
-- Building and Fine-Tuning LLMs <span class="text-muted">(coming soon)</span>
-- Paper Review (KIRC) <span class="text-muted">(coming soon)</span>
+- [Theory: Math & Concepts for LLMs](https://sangmin1208.github.io/Theory/)
+- [Building and Fine-Tuning LLMs](https://sangmin1208.github.io/LLMs/)
+- [Paper Review (KIRC)](https://sangmin1208.github.io/Paper_Review/)
 
 ### 2026-1
 
