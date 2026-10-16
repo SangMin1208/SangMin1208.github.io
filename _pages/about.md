@@ -26,6 +26,6 @@ M.S. Student in [KIRC](https://kirc.kaist.ac.kr/) Lab, advised by Prof. Mun Yong
 
 My research interests are **_Large Language Models (LLMs) for healthcare_**, especially in **_fine-tuning LLMs specialized for the medical domain_**. My goal is to build reliable and efficient language models that support real-world medical applications, from **_clinical decision-making_** to **_medical knowledge understanding_**.
 
-Previously, I was an undergraduate researcher at the [Vision and Learning Lab (UVLL)](https://vision.unist.ac.kr/), UNIST, advised by Prof. Seungryul Baek, where I worked on 3D computer vision and human mesh recovery. I received my B.S. in Statistics from [Jeonbuk National University](https://www.jbnu.ac.kr/), where I was an undergraduate researcher at the Multiscale Lab, advised by Prof. Guebin Choi.
+Previously, I was an undergraduate researcher at the [Unist Vision and Learning Lab (UVLL)](https://vision.unist.ac.kr/intro.html), UNIST, advised by Prof. Seungryul Baek, where I worked on 3D computer vision and human mesh recovery. I received my B.S. in Statistics from [Jeonbuk National University](https://www.jbnu.ac.kr/), where I was an undergraduate researcher at the Multiscale Lab, advised by Prof. Guebin Choi.
 
 I am always open to discussions and collaborations. Please feel free to reach out to me via email.
