@@ -13,12 +13,12 @@ cv:
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://gsds.kaist.ac.kr/
-        area: "Graduate School of Data Science (GSDS), KIRC Lab, advised by Prof. Mun Yong Yi"
+        area: Data Science, Graduate School of Data Science (GSDS)
         degree: M.S.
         start_date: 2027-03
         end_date: 2029-02
         highlights:
-          - "Research interests: fine-tuning Large Language Models (LLMs) specialized for the medical domain"
+          - KIRC Lab, advised by Prof. Mun Yong Yi
 
       - institution: Jeonbuk National University
         location: Jeonju, Korea
@@ -28,46 +28,76 @@ cv:
         start_date: 2021-03
         end_date: 2027-02
         highlights:
-          - "Total GPA: 4.40 / 4.5, Major GPA: 4.47 / 4.5"
+          - "Total GPA of 4.40 / 4.5, Major GPA of 4.47 / 4.5"
+
+    Research Interests:
+      - bullet: Large Language Models (LLMs) for healthcare
+      - bullet: Fine-tuning LLMs specialized for the medical domain
+      - bullet: Clinical decision support and medical knowledge understanding
+
+    Publications:
+      # Example entries -- replace with your papers.
+      - title: "[C1] Title of Your Paper on Medical-Domain LLM Fine-Tuning"
+        authors:
+          - "**Sangmin Lee**"
+          - Coauthor A
+          - Coauthor B
+          - Mun Yong Yi
+        journal: In Proceedings of the Conference Name (ABBR)
+        publisher: In Proceedings of the Conference Name (ABBR)
+        summary: "**Sangmin Lee**, Coauthor A, Coauthor B, and Mun Yong Yi"
+        date: 2027
+
+      - title: "[P1] Title of Your Preprint"
+        authors:
+          - "**Sangmin Lee**\\*"
+          - "Coauthor A\\*"
+          - Mun Yong Yi
+        journal: arXiv preprint arXiv:XXXX.XXXXX (Under Review)
+        publisher: arXiv preprint arXiv:XXXX.XXXXX (Under Review)
+        summary: "**Sangmin Lee**\\*, Coauthor A\\*, and Mun Yong Yi"
+        date: 2027
 
     Experience:
-      - company: Physical AI Demonstration Division, CAMTIC Advanced Mechatronics Technology Institute
-        position: Research Intern, Research Planning Team
+      - company: CAMTIC Advanced Mechatronics Technology Institute
+        position: Research Intern, Research Planning Team, Physical AI Demonstration Division
         location: Jeonju, Korea
         start_date: 2026-10
         end_date: 2026-12
 
-      - company: Vision and Learning Lab (UVLL), UNIST
+      - company: UNIST Vision and Learning Lab
         position: Undergraduate Researcher
         location: Ulsan, Korea
         url: https://vision.unist.ac.kr/
         start_date: 2026-01
         end_date: 2026-09
-        summary: Advised by Prof. Seungryul Baek
         highlights:
-          - Focused on 3D vision, human mesh recovery (HMR), and Vision-Language-Action (VLA)
-          - Studied SMPL-based human mesh recovery and motion reconstruction
-          - Surveyed and presented recent research trends in egocentric vision and VLA at lab seminars
+          - Interned at the Vision and Learning Lab, UNIST (advised by Prof. Seungryul Baek), focusing on 3D vision, human mesh recovery (HMR), and hand object interaction (HOI)
 
-      - company: Multiscale Lab, Jeonbuk National University
+      - company: Multiscale Lab
         position: Undergraduate Researcher
         location: Jeonju, Korea
         start_date: 2025-01
         end_date: 2025-12
-        summary: Advised by Prof. Guebin Choi
         highlights:
-          - Focused on data-adaptive approaches in multiscale analysis
-          - Studied deep learning applications in NLP and computer vision
-          - Prepared a research poster and participated in an academic conference
+          - Interned at the Multiscale Lab, JBNU (advised by Prof. Guebin Choi), focusing on data-adaptive approaches in multiscale analysis
 
-      - company: Jeonbuk National University
-        position: Teaching Assistant, Statistical Thinking and Society
+      - company: Big Data Consortium Overseas Research Program, UNLV
+        position: Deep Neural Networks for Protein Function Prediction
+        location: Las Vegas, NV
+        start_date: 2025-06
+        end_date: 2025-07
+        highlights:
+          - Developed and benchmarked three deep learning approaches for enzyme function prediction using ESM-2 protein language model
+
+      - company: Statistical Thinking and Society
+        position: Teaching Assistant
         location: Jeonju, Korea
-        date: 2025-03
+        start_date: 2025-03
         highlights:
           - Prepared and reviewed instructional materials
 
-      - company: LG Aimers (6th)
+      - company: LG Aimers 6th semester
         position: Participant
         location: Jeonju, Korea
         start_date: 2025-01
@@ -84,66 +114,43 @@ cv:
         highlights:
           - Participated weekly in Dacon and Kaggle competitions, followed by code presentations during club seminars
 
-    Projects:
-      - name: Medical Image Analysis
-        start_date: 2025-09
-        highlights:
-          - Collaborating with a university hospital on deep learning-based medical image analysis
-          - Developing AI models for clinical data analysis and diagnostic support
-          - Working on improving the accuracy and efficiency of medical imaging workflows
+    Presentations:
+      - bullet: "**Poster**, The 2025 Summer Conference of the Korean Statistical Society, Gyeongju, Korea (Jun. 2025): *Deep Learning-based Neural Granger Causality for Solar Radiation Data*"
+      - bullet: "Addressed limitations of traditional VAR models in capturing nonlinear dependencies in time series data, using component-wise MLP (cMLP) and LSTM (cLSTM) models with an independent network for each variable"
+      - bullet: "Analyzed Granger causal relationships between solar radiation in Jeonju and key meteorological variables, identifying causality structures aligned with established relationships in solar meteorology"
+      - bullet: "Participated in the invited lecture *An Introduction to Statistical Analysis of Networks*"
 
-      - name: Deep Neural Networks for Protein Function Prediction
-        start_date: 2025-06
-        end_date: 2025-07
-        highlights:
-          - Developed and benchmarked deep learning approaches for enzyme function prediction using the ESM-2 protein language model
-          - Implemented ESM-2 + Random Forest and ESM-2 + Multi-Layer Perceptron architectures to predict Enzyme Commission (EC) numbers
-          - "Achieved the best performance with the MLP approach (Micro F1: 0.89, Macro F1: 0.77), improving over similarity-based methods"
-          - Applied hyperparameter optimization and class imbalance handling to improve performance on rare enzyme classes
-
-      - name: Deep Learning-based Neural Granger Causality for Solar Radiation Data
-        start_date: 2025-03
-        end_date: 2025-06
-        highlights:
-          - Addressed the limitations of traditional VAR models in capturing nonlinear dependencies in time series data
-          - Implemented component-wise MLP (cMLP) and LSTM (cLSTM) models, assigning an independent network to each variable
-          - Analyzed Granger causal relationships between solar radiation in Jeonju and key meteorological variables
-          - Identified causality structures consistent with established relationships in solar meteorology
-
-    Honors and Awards:
-      - title: Academic Excellence Scholarship, Sancheong-gun Local Scholarship
-        date: 2026-05
+    Awards:
+      - title: Grand Prize, 2024 Jeonbuk National University AI Competition
         authors:
-          - "Sancheong-gun"
-        awarder: Sancheong-gun
-        summary: Received in 2021.05, 2024.05, 2024.11, 2025.05, 2025.11, and 2026.05
-
-      - title: Challenge Award, J-Point Scholarship Program
-        date: 2025-07
-        authors:
-          - "JBNU SW-Center"
-        awarder: JBNU SW-Center
+          - "Jeonbuk National Univ."
+        awarder: Jeonbuk National Univ.
+        date: 2024-06
 
       - title: First Prize, 2024 Big Data Camp - Prompt Engineering Competition
-        date: 2025-01
         authors:
           - "COSS"
         awarder: COSS
+        date: 2025-01
 
-      - title: Yellow Belt, Keun-Saram (Great Person) Project
-        date: 2024-12
-        authors:
-          - "Jeonbuk National University"
-        awarder: Jeonbuk National University
+    Scholarships:
+      - bullet: "**Academic Excellence Scholarship**, Sancheong-gun Local Scholarship, Sancheong-gun (2021-2026; received 2021.05, 2024.05, 2024.11, 2025.05, 2025.11, 2026.05, 2026.12)"
+      - bullet: "**Yellow Belt**, Keun-Saram (Great Person) Project, Jeonbuk National Univ. (2024.12)"
+      - bullet: "**Challenge Award**, J-Point Scholarship Program, JBNU SW-Center (2025.07)"
 
-      - title: Grand Prize, 2024 Jeonbuk National University AI Competition
-        date: 2024-06
-        authors:
-          - "Jeonbuk National University"
-        awarder: Jeonbuk National University
+    Academic Service:
+      # Example entries -- replace with your activities.
+      - bullet: "**Reviewer**, Workshop / Conference Name (ABBR) 2027"
+      - bullet: "**Student Volunteer**, Conference Name (ABBR) 2027"
 
-    Presentations:
-      - bullet: "Poster: Deep Learning-based Neural Granger Causality for Solar Radiation Data, The 2025 Summer Conference of the Korean Statistical Society, Gyeongju, Korea (Jun. 2025)"
+    Skills:
+      - name: Programming
+        keywords: "Python, R, C, C++"
+        summary: "Python, R, C, C++"
+
+      - name: APIs & Frameworks
+        keywords: "PyTorch, Scikit-learn, Transformers, Hugging Face"
+        summary: "PyTorch, Scikit-learn, Transformers, Hugging Face"
 
     Certificates:
       - name: "SQLD: SQL Developer"
@@ -154,15 +161,6 @@ cv:
         date: 2025-11
         issuer: Korea Data Agency
 
-      - name: "Computer Specialist in Spreadsheet & Database Level-1"
+      - name: Computer Specialist in Spreadsheet & Database Level-1
         date: 2022-02
         issuer: Korea Chamber of Commerce and Industry
-
-    Skills:
-      - name: Programming
-        keywords: "Python, R, C, C++"
-        summary: "Python, R, C, C++"
-
-      - name: APIs & Frameworks
-        keywords: "PyTorch, Scikit-learn, Transformers, Hugging Face"
-        summary: "PyTorch, Scikit-learn, Transformers, Hugging Face"
